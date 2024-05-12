@@ -1,0 +1,10 @@
+{
+    "topic": "loganalytics",
+    "server": "localhost:9092",
+    "keyDeserilizer": "org.apache.kafka.common.serialization.StringDeserializer",
+    "valueDeserilizer": "org.apache.kafka.common.serialization.StringDeserializer",
+    "groupId": "logAnalyticsConsumer-300",
+    "offsetReset": "earliest",
+    "databaseName": "loganalyticsdatabase",
+    "table": "logAnalytics"
+}
