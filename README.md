@@ -30,4 +30,4 @@ This part of the project is about linking the database to Power BI and creating 
 - MySql
 - Power BI
 - Python + Java
-- IntelliJ
+- VS Code
